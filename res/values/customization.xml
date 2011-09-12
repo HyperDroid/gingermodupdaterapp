@@ -10,11 +10,10 @@
 	<string name="about_email">http://forum.xda-developers.com/showthread.php?t=1220283</string>
 
 	<!-- Config Strings -->
-	<string name="conf_update_server_url_def">http://gingermod-updater-app.googlecode.com/files/update_file.json</string>
+	<string name="conf_update_server_url_def">http://github.com/89luca89/updater-manifest/raw/master/update_file.json</string>
 	<string name="conf_extra_version_file_def">/system/extras.extra</string>
 	<string name="conf_changelog_url">http://gingermod-updater-app.googlecode.com/files/changelog.xml</string>
 	<string name="conf_featured_extras_url">http://gingermod-updater-app.googlecode.com/files/FeaturedExtras.xml</string>
-
 	<!-- About dialog -->
 	<string-array name="about_authors">
         	<item>Sergi Vélez http://code.google.com/p/jfupdater</item>
