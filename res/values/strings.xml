@@ -87,7 +87,7 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 	<string name="changelog_progress_title">Please wait ...</string>
 	<string name="changelog_progress_body">Trying to download the changelog.xml</string>
 
-	<string name="changelog_button_text">Changelog of selected Rom</string>
+	<string name="changelog_button_text">Changelog\n of selected Rom</string>
 	<string name="no_changelog_found">No Changelog found</string>
 
 	<string name="changelog_title_rom">Update Changelog</string>
@@ -111,7 +111,7 @@ PLEASE REBOOT INTO RECOVERY MANUALLY *BEFORE* APPLYING THIS UPDATE IF YOU WANT T
 
 	<string name="available_extras_text">Please select the Extra to download:</string>
 	<string name="choose_available_extra_text">Download</string>
-	<string name="changelog_button_extra_text">Changelog of selected Extra</string>
+	<string name="changelog_button_extra_text">Changelog\n of selected Extra</string>
 
 	<string name="title_running">running</string>
 	
