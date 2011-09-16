@@ -194,7 +194,7 @@ public class ChangelogTask extends AsyncTask<Object, Void, List<Version>> {
                 l.setGravity(Gravity.CENTER_VERTICAL);
                 ImageView i = new ImageView(mCtx);
                 i.setLayoutParams(lp3);
-                i.setImageResource(R.drawable.icon);
+                i.setImageResource(R.drawable.listmarker);
                 l.addView(i);
                 TextView ChangeText = new TextView(mCtx);
                 ChangeText.setLayoutParams(lp3);
